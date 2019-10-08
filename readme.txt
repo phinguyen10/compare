@@ -1,2 +1,1 @@
-init readme
-local repo
+commit 1
